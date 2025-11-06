@@ -1,0 +1,32 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "img",
+      "a",
+      "br",
+      "hr",
+      "p",
+      "li",
+      "ol",
+      "ul",
+      "span",
+      "div",
+      "strong",
+      "h1",
+      "h2",
+      "h3",
+      "h4",
+      "h5",
+      "kbd",
+      "i",
+      "footer",
+      "foo",
+      "table",
+      "tr",
+      "td",
+      "th",
+      "textarea",
+      "strong"
+    ]
+  }
+}
